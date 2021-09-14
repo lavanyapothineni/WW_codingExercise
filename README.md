@@ -9,6 +9,7 @@ Webriver manager- pip install webdriver-manager
 
 How to run it? 
 Go to the folder through command line and use the following command
+```bash
 python Test.py
 
 Execution and complete output:
@@ -47,3 +48,4 @@ Friday 7:45 AM - 9:15 AM
 11:30 AM - 1:00 PM
 Saturday 9:00 AM - 12:30 PM
 Closing the browser
+```
